@@ -7,9 +7,9 @@ You can reach me at tom.daille@gmail.com or find me on [Linkedin](https://www.li
 ---
 
 ## Data Engineering  
-I create small-scale data pipelines and warehouse models to explore ingestion, transformation, and documentation practices.
+I create data pipelines and data models to explore ingestion, transformation, and documentation practices.
 
-- **[Distrisys-Datawarehouse](https://github.com/thomasdaille/Distrisys-Datawarehouse)** — A fictitious end-to-end warehouse project where I model data, integrate sources, transform tables, and build Power BI dashboards with Microsoft Data suite.  
+- **[Distrisys-Datawarehouse](https://github.com/thomasdaille/Distrisys-Datawarehouse)** — A fictitious end-to-end datawarehouse project where I model data, integrate sources, transform tables, and build Power BI dashboards with Microsoft Data Suite on-premises.  
 
 ## Data Analysis 
 I analyze datasets and build visual stories using BI tools.
