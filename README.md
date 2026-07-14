@@ -1,4 +1,6 @@
-👋 I’m Thomas, a data enthusiast exploring the foundations of **data engineering, analytics, and modern data workflows**.  
+ # Thomas — Data Engineer
+ 
+I’m a data enthusiast exploring the foundations of **data engineering, analytics, and modern data workflows**.  
 
 My GitHub is a place where I design and experiment with **pedagogical, fictitious projects** that help me test real-world techniques, tools, and architectures used across the industry. I use these projects to **test**, **break**, and **understand** how modern data stacks behave — from ingestion to visualization. 
 
