@@ -1,7 +1,6 @@
 I’m Thomas, a data enthusiast exploring the foundations of **data engineering, analytics, and modern data workflows**.  
-My GitHub is a place where I design and experiment with **pedagogical, fictitious projects** that help me test real-world techniques, tools, and architectures used across the industry.
 
-These projects are **learning environments** where I challenge myself, validate concepts, and build a solid understanding of how data moves, transforms, and becomes valuable.
+My GitHub is a place where I design and experiment with **pedagogical, fictitious projects** that help me test real-world techniques, tools, and architectures used across the industry.
 
 ---
 
