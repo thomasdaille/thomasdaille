@@ -14,7 +14,7 @@ I create small-scale data pipelines and warehouse models to explore ingestion, t
 ### 📊 Data Analysis 
 I analyze datasets and build visual stories using BI tools.
 
-- **Data-Challenges** — My entry for the "DataDNA Dataset Challenge" - centered on car insurance policies and built in Power BI - designed to sharpen analytical thinking and problem-solving.
+- **[Data-Challenges](https://github.com/thomasdaille/Data-Challenges)** — My entry for the "DataDNA Dataset Challenge" - centered on car insurance policies and built in Power BI - designed to sharpen analytical thinking and problem-solving.
 - **Sales-Product-Analysis** — A complete analytical workflow combining SQL, Python, and Power BI to understand product performance.
 
 ### 🤖 Machine Learning  
